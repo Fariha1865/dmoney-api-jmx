@@ -1,0 +1,10 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1.66453E+12,77,User Login,200,OK,Thread Group 1-1,text,TRUE,,533,314,1,1,http://dmoney.professionaltrainingbd.com/user/login,69,0,42
+1.66453E+12,4796,Get User List,200,OK,Thread Group 1-1,text,TRUE,,1591601,411,1,1,http://dmoney.professionaltrainingbd.com/user/list,4613,0,0
+1.66453E+12,29,Create User,201,Created,Thread Group 1-1,text,TRUE,,577,599,1,1,http://dmoney.professionaltrainingbd.com/user/create,29,0,0
+1.66453E+12,12,Get User by ID,200,OK,Thread Group 1-1,text,TRUE,,528,421,1,1,http://dmoney.professionaltrainingbd.com/user/search?id=8696,12,0,0
+1.66453E+12,18,Get User by Phone Number,200,OK,Thread Group 1-1,text,TRUE,,540,438,1,1,http://dmoney.professionaltrainingbd.com/user/search?phone_number=01732085234,18,0,0
+1.66453E+12,11,Get User by Email,200,OK,Thread Group 1-1,text,TRUE,,528,437,1,1,http://dmoney.professionaltrainingbd.com/user/search?email=User251@gmail.com,11,0,0
+1.66453E+12,16,Update User Phone Number,200,OK,Thread Group 1-1,text,TRUE,,381,478,1,1,http://dmoney.professionaltrainingbd.com/user/update/8696,16,0,0
+1.66453E+12,16,Check User Details After Phone Number Update,200,OK,Thread Group 1-1,text,TRUE,,540,438,1,1,http://dmoney.professionaltrainingbd.com/user/search?phone_number=01732174634,16,0,0
+1.66453E+12,13,Delete User,200,OK,Thread Group 1-1,text,TRUE,,343,440,1,1,http://dmoney.professionaltrainingbd.com/user/delete/8696,13,0,0
