@@ -22,8 +22,10 @@
 
 ## How to run this project
 
-- Download the jmx file
+- Download the jmx file and keep in bin folder in path\apache-jmeter-5.5\apache-jmeter-5.5\bin
 - Run the file in Jmeter 
+- To generate report,open gitbash in the bin folder and run following command: 
+ ``jmeter -n -t Dmoney.jmx -l Dmoney.csv -e -o Reports``
 
 ## prerequisites
 **You must have jdk and jmeter installed in your system**
