@@ -28,9 +28,8 @@
  ``jmeter -n -t Dmoney.jmx -l Dmoney.csv -e -o Reports``
 
 ## prerequisites
-**You must have jdk and jmeter installed in your system**
-
-
+- **You must have jdk and jmeter installed in your system**
+- JDK_HOME and JMETER_HOME path variables should be properly configured in local pc's Environment Variables 
 ## Output
 
 ![jmeter](https://user-images.githubusercontent.com/54511128/194085460-65ac3dc6-6f90-42ac-99b9-a227a1486e0f.PNG)
