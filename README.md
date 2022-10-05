@@ -7,7 +7,7 @@
 
 ## Scenario of this project
 
-- Creating a jmx file using this following Postman Collection: **https://www.getpostman.com/collections/a8f908e0ee1d77cb6f85**
+- Creating a jmx file from this following Postman Collection: **https://www.getpostman.com/collections/a8f908e0ee1d77cb6f85**
 - Adding following requests:
 
 1. Login to user
